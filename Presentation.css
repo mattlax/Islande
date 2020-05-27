@@ -1,0 +1,66 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/CCLandscape_during_Laugavegur_hiking_trail_3.jpg"); background-position: 50% 50%}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-layout-wrap-1 {width: 837px; margin: 147px auto}
+.u-section-1 .u-layout-cell-1 {min-height: 75px}
+.u-section-1 .u-container-layout-1 {padding: 0}
+.u-section-1 .u-shape-1 {width: 60px; height: 60px; margin: 0 auto 0 0}
+.u-section-1 .u-shape-2 {width: 60px; height: 60px; margin: -60px 0 0 auto}
+.u-section-1 .u-layout-cell-2 {min-height: 359px}
+.u-section-1 .u-container-layout-2 {padding: 30px 60px}
+.u-section-1 .u-text-1 {font-size: 6rem; font-weight: 700; margin: 0}
+.u-section-1 .u-text-2 {font-size: 1.5rem; margin: 18px 0 0}
+.u-section-1 .u-btn-1 {background-image: none; border-style: none; margin: 20px auto -3px}
+.u-section-1 .u-layout-cell-3 {min-height: 72px}
+.u-section-1 .u-container-layout-3 {padding: 0}
+.u-section-1 .u-shape-3 {width: 60px; height: 60px; margin: 0 auto 0 0}
+.u-section-1 .u-shape-4 {width: 60px; height: 60px; margin: -60px 0 0 auto} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 11px}
+.u-section-1 .u-layout-cell-1 {min-height: 62px}
+.u-section-1 .u-layout-cell-2 {min-height: 296px}
+.u-section-1 .u-layout-cell-3 {min-height: 59px} }
+
+@media (max-width: 991px){ .u-section-1 .u-layout-wrap-1 {width: 720px}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-layout-cell-2 {min-height: 100px}
+.u-section-1 .u-container-layout-2 {padding-left: 30px; padding-right: 30px}
+.u-section-1 .u-layout-cell-3 {min-height: 100px} }
+
+@media (max-width: 767px){ .u-section-1 .u-layout-wrap-1 {width: 540px}
+.u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-text-1 {font-size: 2.25} }
+
+@media (max-width: 575px){ .u-section-1 .u-layout-wrap-1 {width: 340px} }.u-section-2 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/CCIceland_-_2017-02-22_-_Gullfoss_-_3677.jpg"); background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 405px}
+.u-section-2 .u-text-1 {width: 680px; margin: 74px 230px 0}
+.u-section-2 .u-line-1 {width: 100px; height: 3px; margin: 30px auto 0}
+.u-section-2 .u-text-2 {width: 680px; margin: 30px auto 0}
+.u-section-2 .u-btn-1 {background-image: none; border-style: none; margin: 30px auto 51px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 334px}
+.u-section-2 .u-text-1 {margin-left: 130px; margin-right: 130px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 256px}
+.u-section-2 .u-text-1 {margin-left: 20px; margin-right: 20px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 192px}
+.u-section-2 .u-text-1 {width: 540px; margin-left: 0; margin-right: 0}
+.u-section-2 .u-text-2 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 121px}
+.u-section-2 .u-text-1 {width: 340px}
+.u-section-2 .u-text-2 {width: 340px} }.u-section-3 {background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/CC17-08-05-Geysir-RalfR-DSC_2780.jpg"); background-position: 50% 50%}
+.u-section-3 .u-sheet-1 {min-height: 405px}
+.u-section-3 .u-text-1 {width: 680px; margin: 60px 230px 0}
+.u-section-3 .u-line-1 {width: 100px; height: 3px; margin: 30px auto 0}
+.u-section-3 .u-text-2 {width: 680px; font-size: 1rem; margin: 30px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-text-1 {margin-left: 130px; margin-right: 130px} }
+
+@media (max-width: 991px){ .u-section-3 .u-text-1 {margin-left: 20px; margin-right: 20px} }
+
+@media (max-width: 767px){ .u-section-3 .u-text-1 {width: 540px; margin-left: auto; margin-right: auto}
+.u-section-3 .u-text-2 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-3 .u-text-1 {width: 340px}
+.u-section-3 .u-text-2 {width: 340px} }
